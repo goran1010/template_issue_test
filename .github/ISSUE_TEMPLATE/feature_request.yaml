@@ -1,7 +1,7 @@
 name: 💡 Feature request
 description: Suggest an idea for this project
 title: "[FEATURE]: <Short description of your feature>"
-labels: ["enhancement", "Status: Needs Triage"]
+labels: ["feature"]
 assignees: []
 body:
   - type: markdown
