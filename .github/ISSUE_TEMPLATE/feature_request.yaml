@@ -37,14 +37,6 @@ body:
       placeholder: ex. "Add a dropdown filter to select Federation, Republika Srpska, or Brčko District"
     validations:
       required: true
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Describe alternatives you've considered
-      description: A clear and concise description of any alternative solutions or features you've considered
-      placeholder: ex. "Using search instead of filters, or adding it to the API query parameters"
-    validations:
-      required: false
   - type: dropdown
     id: component
     attributes:
@@ -55,15 +47,6 @@ body:
         - Backend / API
         - Frontend / UI
         - Database / Data
-  - type: textarea
-    id: implementation
-    attributes:
-      label: Implementation details (optional)
-      description: If you have ideas about how this could be implemented, share them here
-      placeholder: |
-        - Frontend changes needed: Add filter dropdown component in PostalCodes page
-        - Backend changes needed: Add query parameter support for entity filtering
-        - Database schema changes: Ensure entity field is indexed
   - type: dropdown
     id: priority
     attributes:
