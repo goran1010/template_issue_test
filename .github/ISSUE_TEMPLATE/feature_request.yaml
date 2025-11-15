@@ -29,7 +29,6 @@ body:
       placeholder: ex. "I'm always frustrated when I can't filter postal codes by entity..."
     validations:
       required: false
-    placeholder: ex. "I'm always frustrated when I can't filter postal codes by entity..."
   - type: textarea
     id: solution
     attributes:
@@ -38,7 +37,6 @@ body:
       placeholder: ex. "Add a dropdown filter to select Federation, Republika Srpska, or Brčko District"
     validations:
       required: true
-    placeholder: ex. "Add a dropdown filter to select Federation, Republika Srpska, or Brčko District"
   - type: textarea
     id: alternatives
     attributes:
@@ -47,7 +45,6 @@ body:
       placeholder: ex. "Using search instead of filters, or adding it to the API query parameters"
     validations:
       required: false
-    placeholder: ex. "Using search instead of filters, or adding it to the API query parameters"
   - type: dropdown
     id: component
     attributes:
