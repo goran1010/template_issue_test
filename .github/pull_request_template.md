@@ -2,11 +2,11 @@
 
 ## Description
 
-Brief description of what this PR does.
+<!-- Brief description of what this PR does. -->
 
 ## Type of change
 
-Please check the options that are relevant.
+<!-- Please check the options that are relevant. -->
 
 - [ ] I have read and followed the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines
 - [ ] Bug fix (non-breaking change which fixes an issue)
@@ -19,9 +19,11 @@ Please check the options that are relevant.
 
 ## Changes made
 
+<!--
 - List the main changes made in this PR
 - Be specific about what was added, modified, or removed
 - Mention any new dependencies or configuration changes
+-->
 
 ## Data quality (for data contributions)
 
@@ -31,7 +33,7 @@ Please check the options that are relevant.
 
 ## Screenshots (if applicable)
 
-Add screenshots or GIFs to show UI changes.
+<!-- Add screenshots or GIFs to show UI changes. -->
 
 ## Related issues
 
@@ -40,4 +42,4 @@ Related to #(issue number)
 
 ## Additional notes
 
-Any additional information that reviewers should know about this PR.
+<!-- Any additional information that reviewers should know about this PR. -->
