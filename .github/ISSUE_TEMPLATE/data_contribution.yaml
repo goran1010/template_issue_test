@@ -77,9 +77,9 @@ body:
       label: Geographic scope
       description: Which geographic area does this data cover?
       options:
-        - Federation of Bosnia and Herzegovina
-        - Republika Srpska
-        - Brčko District
+        - label: Federation of Bosnia and Herzegovina
+        - label: Republika Srpska
+        - label: Brčko District
     validations:
       required: true
 
