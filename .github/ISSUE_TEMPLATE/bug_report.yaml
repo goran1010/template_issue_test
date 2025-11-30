@@ -67,7 +67,6 @@ body:
     attributes:
       label: Component
       description: Which part of the project is affected?
-      multiple: true
       options:
         - label: Backend / API
         - label: Frontend / UI
