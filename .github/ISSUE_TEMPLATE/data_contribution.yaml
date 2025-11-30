@@ -71,12 +71,11 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: checkboxes
     id: geographic-scope
     attributes:
       label: Geographic scope
       description: Which geographic area does this data cover?
-      multiple: true
       options:
         - Federation of Bosnia and Herzegovina
         - Republika Srpska
