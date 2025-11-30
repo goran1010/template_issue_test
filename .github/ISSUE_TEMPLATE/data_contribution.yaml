@@ -64,8 +64,8 @@ body:
       label: Data format
       description: What format is the data in?
       options:
-        - CSV
         - JSON
+        - CSV
         - Excel
         - SQL
     validations:
