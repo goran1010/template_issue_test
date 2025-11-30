@@ -69,9 +69,9 @@ body:
       description: Which part of the project is affected?
       multiple: true
       options:
-        - Backend / API
-        - Frontend / UI
-        - Database / Data
+        - label: Backend / API
+        - label: Frontend / UI
+        - label: Database / Data
     validations:
       required: false
 
