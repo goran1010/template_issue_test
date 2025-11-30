@@ -1,6 +1,6 @@
 name: 🐛 Bug report
 description: Create a report to help us improve
-title: "[BUG]: <Short description of the bug>"
+title: "<Short description of the bug>"
 labels: ["bug"]
 assignees: []
 body:
@@ -87,8 +87,8 @@ body:
   - type: input
     id: discord
     attributes:
-      label: (Optional) Discord/Contact Name
+      label: (Optional) Discord/Email
       description: Optionally provide your contact info to help coordinate if needed
-      placeholder: ex. username#1234
+      placeholder: ex. username#1234 or email@example.com
     validations:
       required: false
