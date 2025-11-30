@@ -40,8 +40,6 @@ body:
         - label: Backend / API
         - label: Frontend / UI
         - label: Database / Data
-      validations:
-        required: true
 
   - type: dropdown
     id: priority
