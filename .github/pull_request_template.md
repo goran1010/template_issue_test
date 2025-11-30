@@ -1,4 +1,4 @@
-# Pull Request
+<!-- Thank you for taking the time to contribute to Bosnia Lens. In order to get this pull request (PR) merged in a reasonable amount of time, you must complete this entire template. -->
 
 ## Description
 
@@ -6,9 +6,9 @@
 
 ## PR requirements
 
-<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
+<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on.
 
-<!-- Please check all items to confirm you understand the requirements. -->
+Please check all items to confirm you understand the requirements. -->
 
 - [ ] I have read and followed the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines
 - [ ] The `Because` section summarizes the reason for this PR
@@ -17,9 +17,9 @@
 
 ## Type of change
 
-<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
+<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on.
 
-<!-- Please check the options that are relevant. -->
+Please check the options that are relevant. -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -40,9 +40,9 @@
 
 ## Data quality (only if contributing data)
 
-<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
+<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on.
 
-<!-- Please check all items to confirm the quality of the data being contributed. -->
+Please check all items to confirm the quality of the data being contributed. -->
 
 - [ ] Data follows the project's data standards
 - [ ] Data includes proper source attribution
